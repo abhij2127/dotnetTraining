@@ -1,0 +1,15 @@
+/workspaces/dotnetTraining/bin/Debug/net8.0/dotnetTraining
+/workspaces/dotnetTraining/bin/Debug/net8.0/dotnetTraining.deps.json
+/workspaces/dotnetTraining/bin/Debug/net8.0/dotnetTraining.runtimeconfig.json
+/workspaces/dotnetTraining/bin/Debug/net8.0/dotnetTraining.dll
+/workspaces/dotnetTraining/bin/Debug/net8.0/dotnetTraining.pdb
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.AssemblyInfoInputs.cache
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.AssemblyInfo.cs
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.csproj.CoreCompileInputs.cache
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.sourcelink.json
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.dll
+/workspaces/dotnetTraining/obj/Debug/net8.0/refint/dotnetTraining.dll
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.pdb
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.genruntimeconfig.cache
+/workspaces/dotnetTraining/obj/Debug/net8.0/ref/dotnetTraining.dll
