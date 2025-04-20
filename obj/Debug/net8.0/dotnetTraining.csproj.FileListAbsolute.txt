@@ -13,3 +13,6 @@
 /workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.pdb
 /workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.genruntimeconfig.cache
 /workspaces/dotnetTraining/obj/Debug/net8.0/ref/dotnetTraining.dll
+/workspaces/dotnetTraining/bin/Debug/net8.0/PasswordGenerator.dll
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTraining.csproj.AssemblyReference.cache
+/workspaces/dotnetTraining/obj/Debug/net8.0/dotnetTr.6FDFE4FC.Up2Date
